@@ -1,0 +1,8 @@
+[Visual Studio 단축키]
+ctrl + shift + a :  새 소스 코드 만들기
+ctrl + a : 코드 전체 선택
+ctrl + d : 선택되어있는 줄 복사
+alt + 위 화살표 : 코드 위로 이동
+alt + 아래 화살표 : 코드 아래로 이동
+ctrl + / : 주석
+ctrl + shift + / : 주석 해제
