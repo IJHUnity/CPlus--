@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Practice02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Practice02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Practice03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Practice03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Practice01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Practice01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3578E2ED-7CA6-4239-ABB5-6230C920F758}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,66 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Practice02.cpp",
-              "DocumentMoniker": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Practice02.cpp",
-              "RelativeDocumentMoniker": "Project1\\Practice02.cpp",
-              "ToolTip": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Practice02.cpp",
-              "RelativeToolTip": "Project1\\Practice02.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Title": "Practice03.cpp",
+              "DocumentMoniker": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Practice03.cpp",
+              "RelativeDocumentMoniker": "Project1\\Practice03.cpp",
+              "ToolTip": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Practice03.cpp",
+              "RelativeToolTip": "Project1\\Practice03.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-08T02:39:15.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Source02.cpp",
-              "DocumentMoniker": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source02.cpp",
-              "RelativeDocumentMoniker": "Project1\\Source02.cpp",
-              "ToolTip": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source02.cpp",
-              "RelativeToolTip": "Project1\\Source02.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-08T02:38:57.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Source01.cpp",
-              "DocumentMoniker": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source01.cpp",
-              "RelativeDocumentMoniker": "Project1\\Source01.cpp",
-              "ToolTip": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source01.cpp",
-              "RelativeToolTip": "Project1\\Source01.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-08T02:38:54.145Z",
+              "WhenOpened": "2024-09-22T02:38:23.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Source03.cpp",
-              "DocumentMoniker": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source03.cpp",
-              "RelativeDocumentMoniker": "Project1\\Source03.cpp",
-              "ToolTip": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source03.cpp",
-              "RelativeToolTip": "Project1\\Source03.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Title": "Source05.cpp",
+              "DocumentMoniker": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source05.cpp",
+              "RelativeDocumentMoniker": "Project1\\Source05.cpp",
+              "ToolTip": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Source05.cpp",
+              "RelativeToolTip": "Project1\\Source05.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAywIkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-08T02:25:25.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Practice01.cpp",
-              "DocumentMoniker": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Practice01.cpp",
-              "RelativeDocumentMoniker": "Project1\\Practice01.cpp",
-              "ToolTip": "C:\\jh\\C\u002B\u002B\\CPlus\\Project1\\Project1\\Practice01.cpp",
-              "RelativeToolTip": "Project1\\Practice01.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-08T02:02:52.871Z",
+              "WhenOpened": "2024-09-22T01:12:39.719Z",
               "EditorCaption": ""
             }
           ]
