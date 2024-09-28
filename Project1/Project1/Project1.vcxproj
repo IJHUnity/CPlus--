@@ -130,6 +130,8 @@
     <ClCompile Include="Practice01.cpp" />
     <ClCompile Include="Practice02.cpp" />
     <ClCompile Include="Practice03.cpp" />
+    <ClCompile Include="Sort01.cpp" />
+    <ClCompile Include="Sort02.cpp" />
     <ClCompile Include="Source01.cpp" />
     <ClCompile Include="Source02.cpp" />
     <ClCompile Include="Source03.cpp" />
