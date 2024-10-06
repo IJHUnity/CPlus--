@@ -133,6 +133,8 @@
     <ClCompile Include="Practice04.cpp" />
     <ClCompile Include="Practice05.cpp" />
     <ClCompile Include="Practice06.cpp" />
+    <ClCompile Include="Practice07.cpp" />
+    <ClCompile Include="Practice08.cpp" />
     <ClCompile Include="Sort01.cpp" />
     <ClCompile Include="Sort02.cpp" />
     <ClCompile Include="Source01.cpp" />
@@ -146,6 +148,8 @@
     <ClCompile Include="Source09.cpp" />
     <ClCompile Include="Source10.cpp" />
     <ClCompile Include="Source11.cpp" />
+    <ClCompile Include="Source12.cpp" />
+    <ClCompile Include="Source13.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
