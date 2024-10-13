@@ -136,6 +136,7 @@
     <ClCompile Include="Practice06.cpp" />
     <ClCompile Include="Practice07.cpp" />
     <ClCompile Include="Practice08.cpp" />
+    <ClCompile Include="Practice09.cpp" />
     <ClCompile Include="Sort01.cpp" />
     <ClCompile Include="Sort02.cpp" />
     <ClCompile Include="Source01.cpp" />
@@ -153,6 +154,8 @@
     <ClCompile Include="Source13.cpp" />
     <ClCompile Include="Source14.cpp" />
     <ClCompile Include="Source15.cpp" />
+    <ClCompile Include="Source16.cpp" />
+    <ClCompile Include="try_catch01.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
